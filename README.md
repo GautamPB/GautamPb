@@ -1,6 +1,6 @@
 ## Hi there, I'm Gautam👋
 
-### Hello, I am Gautam, studying at PES University and pursuing B.Tech while studying Electronics and Communication Engineering.
+### Hello, I am Gautam, pursuing B.Tech in Electronics and Communication Engineering at PES University.
 
 <br />
 
@@ -21,10 +21,11 @@
 
 <br/>
 <br/>
+<br />
 
 ### Connect with me:
 
-[<img align = 'left' src = './pictures/logo.PNG' alt = 'Gautam' width = '36px' />](https://gautampb.vercel.app/)
+[<img align = 'left' src = './pictures/logo.PNG' alt = 'Gautam' width = '30px' />](https://gautampb.vercel.app/)
 
 [<img align = 'left' src = './pictures/instagram.jpg' alt = 'Gautam' width = '26px' />](https://www.instagram.com/_.gautampb._/)
 
