@@ -1,12 +1,8 @@
-### Hi there, I'm Gautam👋
+## Hi there, I'm Gautam👋
 
-## I'm a Student at PES University and a Web Developer
+### Hello, I am Gautam, studying at PES University and pursuing B.Tech while studying Electronics and Communication Engineering.
 
 <br />
-
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamPB&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPB&langs_count=8)](https://github.com/GautamPB/github-readme-stats)
 
 ### Tools I use:
 
@@ -18,14 +14,25 @@
 <img align="left" alt="Next" width="26px" src="./pictures/next-js.png" />
 <img align="left" alt="Git" width="26px" src="./pictures/git.png" />
 <img align="left" alt="GitHub" width="26px" src="./pictures/github.jpg" />
+<img align="left" alt="Redux" width="26px" src="./pictures/redux.png" />
+<img align="left" alt="Firebase" width="26px" src="./pictures/firebase.jpg" />
+<img align="left" alt="TailwindCSS" width="26px" src="./pictures/tailwindcss.jpg" />
 <img align="left" alt="Flutter" width="26px" src="./pictures/flutter.jpg" />
 
 <br/>
 <br/>
 
-[My Website](https://gautampb.vercel.app/)
+### Connect with me:
+
+[<img align = 'left' src = './pictures/logo.PNG' alt = 'Gautam' width = '36px' />](https://gautampb.vercel.app/)
+
+[<img align = 'left' src = './pictures/instagram.jpg' alt = 'Gautam' width = '26px' />](https://www.instagram.com/_.gautampb._/)
+
+[<img align = 'left' src = './pictures/linkedin.png' alt = 'Gautam' width = '26px' />](https://www.linkedin.com/in/gautam-b-959394200/)
 <br/>
-[Instagram](https://www.instagram.com/_.gautampb._/)
-<br/>
-[LinkedIn](https://www.linkedin.com/in/gautam-b-959394200/)
-<br/>
+
+![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamPB&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPB&langs_count=8&theme=algolia)](https://github.com/GautamPB/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GautamPB&theme=chartreuse-dark)](https://git.io/streak-stats)
