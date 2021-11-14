@@ -18,6 +18,7 @@
 <img align="left" alt="Next" width="26px" src="./pictures/next-js.png" />
 <img align="left" alt="Git" width="26px" src="./pictures/git.png" />
 <img align="left" alt="GitHub" width="26px" src="./pictures/github.jpg" />
+<img align="left" alt="Flutter" width="26px" src="./pictures/flutter.jpg" />
 
 <br/>
 <br/>
