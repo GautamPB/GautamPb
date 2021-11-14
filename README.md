@@ -24,3 +24,5 @@
 <br/>
 [LinkedIn](https://www.linkedin.com/in/gautam-b-959394200/)
 <br/>
+
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamPB)](https://github.com/GautamPB/github-readme-stats)
