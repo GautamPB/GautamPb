@@ -4,7 +4,7 @@
 
 <br />
 
-### Languages and Tools:
+### Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./assets/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="./assets/html.png" />
