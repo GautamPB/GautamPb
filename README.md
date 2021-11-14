@@ -6,14 +6,14 @@
 
 ### Tools I use:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./assets/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="./assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="./assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.png" />
-<img align="left" alt="React" width="26px" src="./assets/react.png" />
-<img align="left" alt="Next" width="26px" src="./assets/next-js.png" />
-<img align="left" alt="Git" width="26px" src="./assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="./assets/github.jpg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./pictures/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="./pictures/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./pictures/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="./pictures/javascript.png" />
+<img align="left" alt="React" width="26px" src="./pictures/react.png" />
+<img align="left" alt="Next" width="26px" src="./pictures/next-js.png" />
+<img align="left" alt="Git" width="26px" src="./pictures/git.png" />
+<img align="left" alt="GitHub" width="26px" src="./pictures/github.jpg" />
 
 <br/>
 <br/>
