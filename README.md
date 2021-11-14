@@ -4,6 +4,10 @@
 
 <br />
 
+![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamPB&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPB&langs_count=8)](https://github.com/GautamPB/github-readme-stats)
+
 ### Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./pictures/visual-studio-code.png" />
@@ -24,5 +28,3 @@
 <br/>
 [LinkedIn](https://www.linkedin.com/in/gautam-b-959394200/)
 <br/>
-
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamPB)](https://github.com/GautamPB/github-readme-stats)
