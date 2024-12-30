@@ -1,6 +1,6 @@
 ## Hi there, I'm Gautam👋
 
-### Hello, I am Gautam, pursuing B.Tech in Electronics and Communication Engineering at PES University.
+### Hello, I am Gautam, a frontend developer with a Bachelor's degree in Electronics and Communication
 
 <br />
 
